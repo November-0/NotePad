@@ -3,7 +3,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 
 ## 时间戳添加
 ### 1. 修改noteslist_item.xml
-···
+
 <RelativeLayout android:layout_height="match_parent"
     android:layout_width="match_parent"
     xmlns:android="http://schemas.android.com/apk/res/android">
@@ -26,4 +26,4 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
     />
 </RelativeLayout>
 
-···
+
