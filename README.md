@@ -125,4 +125,4 @@ int[] viewIDs = { android.R.id.text1, R.id.text2 }//加入修改时间;
 再到Adapter进行装配和显示
 
 ### 4. 显示效果
-![11](C:\Users\16588\Desktop\11.png)
+![运行效果](https://github.com/November-0/NotePad/blob/master/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C.png)
